@@ -14,7 +14,7 @@
  */
 
 import { fetchAnime } from "./action";
-
+import React from "react";
 import LoadMore from "../components/LoadMore";
 import AnimeCard, { AnimeProp } from "@/components/AnimeCard";
 
