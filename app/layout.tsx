@@ -13,6 +13,7 @@
  * Date: 02, December 2023
  */
 
+import React from "react";
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 
